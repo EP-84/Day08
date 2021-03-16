@@ -1,7 +1,6 @@
 var sum = 0;
 function addThree(){
-sum =  3;
-return sum;
+sum = sum + 3;
 }
 
 addThree();
